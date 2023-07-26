@@ -1,1 +1,7 @@
 *.txt
+# hash tag is our comments
+user_login.log
+*passwords*
+*pass*
+*passw*
+*password*
